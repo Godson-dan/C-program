@@ -1,7 +1,7 @@
 #include <stdio.h>
-//recursive function
+//recursive function prototype
 void multiplicationTable (int x, int y, int z, int a);
-//datatypes
+// global datatypes
 int x, y, z, a;
 
 int main(){

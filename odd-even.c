@@ -1,3 +1,4 @@
+//program to print an odd or even number
 #include <stdio.h>
 
 int main(){

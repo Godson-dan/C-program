@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Program to Display grade once the score is entered 
+
 int main(){
 
  int grade;
